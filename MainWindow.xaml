@@ -26,5 +26,8 @@
             <TextBox Name="textboxFramework"></TextBox>
             <TextBox Name="textboxType"></TextBox>
         </ListBox>
+        <ListBox Name="listBoximgs" Grid.Column="1"  Width="auto" Height="auto">
+       
+        </ListBox>
     </Grid>
 </Window>
